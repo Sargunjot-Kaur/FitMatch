@@ -2,7 +2,6 @@
 
 FitMatch started as a digital wardrobe concept. This Flutter demo lets you ask a friend to choose between two outfits. The demo also tracks whether friends accept the invitation and cast a vote.
 
-[Download the 38-second demo recording](docs/FitMatch-Demo.mp4)
 
 ## Try the demo
 
